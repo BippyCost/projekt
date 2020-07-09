@@ -32,7 +32,7 @@ void display() {
 }
 
 int main(int argc, char **argv) {
-	std::cout << "Programmer: <your name>\n";
+	std::cout << "Programmer: WongCHunHei\n";
 	std::cout << "Compiled on " << __DATE__ << ", " << __TIME__ << std::endl << std::endl;
 
 	// init GLUT and create Window
